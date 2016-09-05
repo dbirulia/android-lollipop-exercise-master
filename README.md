@@ -27,10 +27,10 @@ The app does the following:
 
 1. It uses a `RecyclerView` to display a list of contacts.
 2. `CardView` is used to display each contact in the list.
-3. Add ripple effect to `CardView` to provide touch feedback.
-4. Use `Palette` to add dynamic color to contact item's background. Use the same color as the accent color for the views in details screen.
-5. Add shared element activity transition to provide a seamless experience by emphasizing continuity between activity transitions.
-6. Add a floating action button, clicking on which should enable you to directly place a call to your contact.
+3. Has ripple effect to `CardView` to provide touch feedback.
+4. Uses `Palette` to add dynamic color to contact item's background. Use the same color as the accent color for the views in details screen.
+5. Uses shared element activity transition to provide a seamless experience by emphasizing continuity between activity transitions.
+6. Has a floating action button, clicking on which should enable you to directly place a call to your contact.
 
 ## Libraries
 
