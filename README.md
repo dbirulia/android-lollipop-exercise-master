@@ -17,7 +17,7 @@ Time spent: **2** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/dbirulia/dmitrys-twitter-client/blob/master/TwitterClient.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/dbirulia/android-lollipop-exercise-master/blob/master/Lollipop.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
