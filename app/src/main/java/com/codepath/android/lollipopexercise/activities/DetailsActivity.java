@@ -80,7 +80,7 @@ public class DetailsActivity extends AppCompatActivity {
                             // Set the background color of a layout based on the vibrant color
                             vPalette.setBackgroundColor(vibrant.getRgb());
                             // Update the title TextView with the proper text color
-                            //  tvName.setTextColor(vibrant.getTitleTextColor());
+                            tvName.setTextColor(vibrant.getTitleTextColor());
                         }
                     }
                 });
@@ -149,6 +149,7 @@ public class DetailsActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         exitReveal();
+        super.onBackPressed();
     }
 
     private void enterReveal() {
